@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "Hello, world!"
+echo "Hello, $1"
 exit 0
